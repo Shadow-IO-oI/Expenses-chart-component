@@ -29,3 +29,7 @@ First step in 3D world. It's far from perfection, but I hope u will like it.🦊
 ## Author
 
 - Frontend Mentor - [@Shadow-IO-oI](https://www.frontendmentor.io/profile/Shadow-IO-oI)
+
+## Design Source 
+
+![](./design.jpg)
